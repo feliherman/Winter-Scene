@@ -1,2 +1,2 @@
 # Winter-Scene
-A scene is implemented using Visual Studio (OpenGL App). There are a lot of objects which were exported from Blender.
+Aplicatia OpenGL prezinta o mini-scena de iarna in care diferite obiecte, efecte meteo si imprejurimi se imbina pentru a creea o scena care poate sa fie integrata in diferite aplicatii mai mari(jocuri, filmulete).
